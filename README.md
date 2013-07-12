@@ -3,11 +3,11 @@ GitSetup
 
 #Copy this to ~Home/.gitconfig
 [alias] 
-hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short'''
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short'''
 
 ##Setup
-1. Create new repository over GitHub web 
-Name it as GitSetup 
+1. Create new repository over GitHub web  
+	Name it as GitSetup  
 2. Clone to local 
 Double click GitShell icon 
 * cd D:\Repo (or folder that you want to keep App) 
