@@ -7,9 +7,9 @@ hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short'''
 
 ##Setup
 1. Create new repository over GitHub web 
-* Name it as GitSetup
+Name it as GitSetup 
 2. Clone to local 
-* Double click GitShell icon 
+Double click GitShell icon 
 * cd D:\Repo (or folder that you want to keep App) 
 * git clone https://github.com/YayaKanlaya/GitSetup.git 
 3. Create a new file
