@@ -10,7 +10,7 @@ hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short'''
 Name it as GitSetup  
 * Clone to local  
 Double click GitShell icon  
-* cd D:\Repo (or folder that you want to keep App) 
+cd D:\Repo (or folder that you want to keep App)  
 * git clone https://github.com/YayaKanlaya/GitSetup.git 
 3. Create a new file
 * cd D:\Repo\Gitsetup
